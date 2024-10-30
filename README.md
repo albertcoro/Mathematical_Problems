@@ -16,7 +16,7 @@ For an explanation of the problem, here is a complete article about it: https://
  - Trapped Knight: Defines a board of n by n (n determined by user) and makes L (2x1) shaped moves until the knight cannot move.
  - Trapped Long Knight: Defines a board of n by n (n determined by user) and makes long L (3x1) shaped moves until the knight cannot move.
 
-### The 3n + 1 Problem (Collatz Conjecture) 🔄🔢
+### 🔄🔢 The 3n + 1 Problem (Collatz Conjecture) 
 
 This repository implements a solution to the famous **3n + 1 Problem**, also known as the **Collatz Conjecture**. The conjecture states that, starting with any positive integer `n`, the following process will eventually reach the number 1:
 - If `n` is even, divide it by 2.
@@ -24,6 +24,6 @@ This repository implements a solution to the famous **3n + 1 Problem**, also kno
 
 This cycle is repeated until the number reaches 1.
 
-### Mersenne Prime Finder 🔢🚀
+### 🔢🚀 Mersenne Prime Finder
 
 A simple and efficient tool to find **Mersenne Prime Numbers** within a given range of exponents `x` to `y`. A Mersenne prime is a prime number of the form `M_n = 2^n - 1`, where `n` is an integer. This project helps you find all Mersenne primes within any user-defined range by testing exponents between `x` and `y`.
