@@ -5,13 +5,14 @@ Welcome to the Mathematical Problem Solving repository! This project provides al
 ## ♟️ The Trapped Knight
 
 The Trapped Knight is a mathematical problem centred arround chess. 
-For an explanation of the problem, here is a complete article about it: https://scipython.com/blog/the-trapped-knight/
-
 The problem defines a board of n by n (n determined by user) and makes L (2x1) shaped moves until the knight cannot move.
+
+For an explanation of the problem, here is a complete article about it: https://scipython.com/blog/the-trapped-knight/
 
 ## 🔄🔢 The 3n + 1 Problem (Collatz Conjecture) 
 
-This repository implements a solution to the famous **3n + 1 Problem**, also known as the **Collatz Conjecture**. The conjecture states that, starting with any positive integer `n`, the following process will eventually reach the number 1:
+Visual representation of the famous **3n + 1 Problem**, also known as the **Collatz Conjecture**. 
+The conjecture states that, starting with any positive integer `n`, the following process will eventually reach the number 1:
 - If `n` is even, divide it by 2.
 - If `n` is odd, multiply it by 3 and add 1.
 
@@ -23,7 +24,8 @@ A simple and efficient tool to find **Mersenne Prime Numbers** within a given ra
 
 ## 🔄🌀 Fibonacci Sequence
 
-This section deals with generating the Fibonacci sequence, where each number is the sum of the two preceding ones, usually starting with 0 and 1. Mathematically, it is defined as:
+This section deals with generating the Fibonacci sequence, where each number is the sum of the two preceding ones, usually starting with 0 and 1. 
+Mathematically, it is defined as:
 
 Fib(0) = 0
 Fib(1) = 1
